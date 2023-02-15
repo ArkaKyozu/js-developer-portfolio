@@ -2,7 +2,7 @@
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    width: 100%;
+    width: 100;
     margin: 0;
     padding: 0;
     list-style: none;
@@ -26,12 +26,14 @@
 }
 
 .portfolio li h3.github::before {
-    content: "";
+    content: '';
     display: inline-block;
     width: 1rem;
     height: 1rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('../img/icons/github.svg');
-    margin-right: .5rem;
+    background-image: url('/assets/img/icons/github.svg');
+    margin: .5rem;
 }
+
+
