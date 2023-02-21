@@ -55,9 +55,9 @@
   ],
   "academicExperience": [
     {
-      "name": "Nome do bootcamp",
+      "name": "Mini Camp Dev & Data - Faculdade XP Educação",
       "photo": "https://raw.githubusercontent.com/ArkaKyozu/js-developer-portfolio/main/assets/img/academic_experience/minicamp%20DATA%20%26%20DEV.JPG",
-      "description": "descrição e objetivo do bootcamp."
+      "description": "Curso que integra o processo seletivo do 2° semestre de 2022 da graduação no periodo de 21/07/2022 a 05/08/2022, com duração total de 32 horas - conceitos basicos de JavaScript, html e CSS."
     }
   ]
 }
