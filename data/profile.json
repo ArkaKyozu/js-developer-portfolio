@@ -51,7 +51,18 @@
       "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
       "url": "https://github.com/ArkaKyozu/js-developer-portfolio",
       "github": true
+    },
+    {
+      "name": "Criação e estilização de um site para uma clinica Médica",
+      "url": "https://github.com/ArkaKyozu/site_Coffeyville-Regional-Medical-Center",
+      "github": true
+    },
+    {
+      "name": "Reestruturação de uma pagina do wikipedia, adicionando acessibilidade a pagina",
+      "url": "https://github.com/ArkaKyozu/reestrutura_wiki",
+      "github": true
     }
+    
   ],
   "academicExperience": {
     "head":[
